@@ -5,4 +5,5 @@ Pillow
 pip==21.0.1
 PyYAML
 scipy
+tensorflow
 setuptools==56.0.0
